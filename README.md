@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/deepesh-jangid-84ba64332/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://leetcode.com/u/deepesh2709/">
+  <a href="https://leetcode.com/u/m5vfTuqICE/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
   <a href="https://github.com/deepeshcodes2709">
