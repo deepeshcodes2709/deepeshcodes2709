@@ -54,7 +54,7 @@
 
 **🗄️ Database**
 
-`MySQL`
+`MySQL`, `MySQL_Workbench`
 
 **🧠 Core Concepts**
 
