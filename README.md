@@ -34,7 +34,7 @@
 - 🗄️ Working with **MySQL, JDBC & SQL**
 - 🤖 Exploring **Generative AI & AI-assisted development**
 - 🔧 Experienced with **Git, GitHub, VS Code & Spring Tools**
-- 🚀 Interested in **AI/ML, Blockchain & Software Development**
+- 🚀 Interested in **AI/ML & Software Development**
 
 ---
 
